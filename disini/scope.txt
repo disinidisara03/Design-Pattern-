@@ -1,0 +1,28 @@
+Scope 
+We can begin the shaping of the designed system when considering the requirments needed for the work breakdown structure (WBS), 
+
+3.1 Staff of e-catering 
+User = employee.
+Manager = handles supplier and customer details.
+Beverage Supplier = supplies beverages.
+Food Supplier = supplies food.
+Delivery = delivers food and handles rest of the money.
+These members will be of utomost importance for the completion of the e-catering system. The employee/user of the system will the main 
+role in the system. They will take in the orders given by the customers. The management/ manager will have the role of handling suppliers 
+and other main needed managementarial roles. Since the system has to have the option of the downpayment, the employee will have to deal with the payment as
+well as the final person making the delivery to the customer. The remaining payment will be made to the person who makes the delivery. Therefore the 
+employee and delivery person has to interact and make sure the payments are upto pare. 
+
+3.2 Customers 
+In the e-catering system, the customer has the ability to search for food and beverages in the menu from published e-catalogs. 
+The customer can change the menu according to their liking. The person ordering the food can compose a meal according to their liking, alterning the available
+menu and making a package for their liking. The person ordering the food has to make a downpayment as soon as the meal is ordered to secure the order, 
+the rest of the payment is to be made once the delivery is done. This ensures that no fraud food orders will be placed. 
+
+3.3 system (ask others)
+
+report with customer and supplier details,payment report - (every month end).
+report for food details.
+delivery details. 
+
+
