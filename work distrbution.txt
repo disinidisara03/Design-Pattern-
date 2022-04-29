@@ -19,19 +19,19 @@ state machine diagram - Everyone - done
 class diagram - Everyone - done 
 collabration diagram 
 User - nilhan 
-Customer - dewni 
+Customer - dewni - done 
 System  - dilhan - done 
 Sequence Diagram - 
-User - mujeeb 
-Customer - disini
+User - mujeeb - done 
+Customer - disini - done 
 System - shikari 
 System Design - Methodology, Analysis, Design for system. - shikari 
 Users and their characterstics - nilhan 
 Workflow of proposed system - dilhani - done 
 Implementation Requirments - dewni - done 
 System requirment - mujeeb - done 
-Conclusion - disini 
-References - everyone 
+Conclusion - disini, dilhani 
+References - everyone -doing 
 
 
 
