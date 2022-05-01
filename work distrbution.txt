@@ -4,13 +4,13 @@ Scope - members,guests, system - disini - done
 obstacles faced with e-catering - mujeeb - done 
 potential benefits from proposed system -mujeeb - done 
 system requirments development - dewni - done 
-assumptions - nilhan 
+assumptions - nilhan [disini]
 use case diagrams - dilhani - done 
-Register -nilhan
-Login/Logout - nilhan
-Menu - nilhan 
+Register -nilhan [disini]
+Login/Logout - nilhan [dewni]
+Menu - nilhan [disini,dewni,dilhani]
 Delete Item - dewni - done 
-Search food - shikari 
+Search food - shikari [dilhani]
 Update Items - disini - done 
 Physical payment - dewni - done 
 Online Payment - mujeeb - done 
@@ -18,13 +18,13 @@ Activity diagram - Everyone - done
 state machine diagram - Everyone - done 
 class diagram - Everyone - done 
 collabration diagram 
-User - nilhan 
+User - nilhan [dilhani]
 Customer - dewni - done 
 System  - dilhan - done 
 Sequence Diagram - 
 User - mujeeb - done 
 Customer - disini - done 
-System - shikari 
+System - shikari [disini]
 System Design - Methodology, Analysis, Design for system. - shikari 
 Users and their characterstics - nilhan 
 Workflow of proposed system - dilhani - done 
