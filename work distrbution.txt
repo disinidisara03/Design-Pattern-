@@ -12,7 +12,7 @@ Menu - nilhan [disini,dewni,dilhani] - done
 Delete Item - dewni - done 
 Search food - shikari [dilhani] - done
 Update Items - disini - done 
-View order 
+View order [dewni]
 order available beverage and food 	
 Physical payment - dewni - done 
 Online Payment - mujeeb - done 
