@@ -1,32 +1,34 @@
 Basic Introduction - Acknowledgement, Abstarct, Intro to coursework - shikari - done 
-Objectives -shikari 
+Objectives -shikari -done 
 Scope - members,guests, system - disini - done 
 obstacles faced with e-catering - mujeeb - done 
 potential benefits from proposed system -mujeeb - done 
 system requirments development - dewni - done 
-assumptions - nilhan [disini]
+assumptions - nilhan [disini] - done
 use case diagrams - dilhani - done 
-Register -nilhan [disini]
-Login/Logout - nilhan [dewni]
-Menu - nilhan [disini,dewni,dilhani]
+Register -nilhan [disini] - done
+Login/Logout - nilhan [dewni] - done
+Menu - nilhan [disini,dewni,dilhani] - done
 Delete Item - dewni - done 
-Search food - shikari [dilhani]
+Search food - shikari [dilhani] - done
 Update Items - disini - done 
+View order 
+order available beverage and food 	
 Physical payment - dewni - done 
 Online Payment - mujeeb - done 
 Activity diagram - Everyone - done  
 state machine diagram - Everyone - done 
 class diagram - Everyone - done 
-collabration diagram 
-User - nilhan [dilhani]
+collabration diagram - done
+User - nilhan [dilhani] - done
 Customer - dewni - done 
 System  - dilhan - done 
-Sequence Diagram - 
+Sequence Diagram - done
 User - mujeeb - done 
 Customer - disini - done 
-System - shikari [disini]
-System Design - Methodology, Analysis, Design for system. - shikari 
-Users and their characterstics - nilhan 
+System - shikari [disini] - done
+System Design - Methodology, Analysis, Design for system. - shikari - done 
+Users and their characterstics - nilhan - done 
 Workflow of proposed system - dilhani - done 
 Implementation Requirments - dewni - done 
 System requirment - mujeeb - done 
