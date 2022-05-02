@@ -1,0 +1,8 @@
+Login
+Registration
+Search Food and Baverage
+update food and baverage
+View available food and baverage
+payment (online and physical)
+Logout
+Database
